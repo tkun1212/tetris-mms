@@ -1,0 +1,15 @@
+{
+  "name": "terminal-tetris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+    "bin": {
+    "tetris": "./bin/tetris.js"
+  },
+  "scripts": {
+    "start": "node bin/tetris.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
