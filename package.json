@@ -10,6 +10,6 @@
     "start": "node bin/tetris.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "tkun1212",
+  "license": "GUL - 3.0"
 }
