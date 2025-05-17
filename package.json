@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node bin/tetris.js"
   },
-  "keywords": [tetris,game,terminal],
+  "keywords": ['tetris','game','terminal'],
   "author": "tkun1212",
   "license": "GPL - 3.0"
 }
